@@ -1,0 +1,15 @@
+baseURL = 'https://lively-kangaroo-620075.netlify.app'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "ananke"
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+[params]
+  text_color = ""
+  author = "Contentrain"
+  favicon = ""
+  site_logo = "/images/logo.svg"
+  description = ""
+  recent_posts_number = 3
